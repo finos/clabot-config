@@ -1,5 +1,5 @@
 {
   "contributorListGithubUrl": "https://api.github.com/repos/finos/clabot-config/contents/contributors.json",
-  "label": "cla-signed",
+  "label": "cla-present",
   "message": "Thank you for your pull request and welcome to our community! We require contributors to sign a [Contributor License Agreement](https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530375/Legal+Requirements#LegalRequirements-ContributorLicenseAgreement) and we don't seem to have CLAs on file for these contributors to the Pull Request: ({{usersWithoutCLA}}). In order for your PR to be reviewed and merged, please follow the directions at the link above.\n\nProject team: please **do not merge this Pull Request** until Foundation staff have confirmed that a CLA is in place for the new contributor(s) listed above.\n\nIf there are any questions, please don't hesitate to [get in touch with our Infrastructure Support team](https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/77955298/Getting+in+Touch#GettinginTouch-InfrastructureSupport). /CC @finos/finos-staff"
 }
